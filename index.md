@@ -1,17 +1,17 @@
 ---
-title: Ma page de recommandations
+title: "Ma page de recommandations"
 order: 0
+in_menu: true
 ---
-
 C'est le moment de lister vos logiciels libres préférés, pour les recommander autour de vous !
 
 Retrouvez les détails sur [https://beta.framalibre.org/mini-site](https://beta.framalibre.org/mini-site)
 
-Un exemple ci-dessous :
+# Mes logiciels audio-visuels
 
-# Mes logiciels libres pour randonner
+## Pour regarder des vidéos
 
-## Pour ce que j'aurai filmé
+C’est un logiciel dont je n’ai pas encore (février 2026 l’habitude d’utiliser).
 
 <article class="framalibre-notice">
   <div>
@@ -27,9 +27,9 @@ Un exemple ci-dessous :
   </div>
 </article>
 
-## Pour écouter des émissions
+## Pour écouter des émissions radio, podcast…
 
-Quand je fais une pause, j'aime bien écouter un petit podcast avec :
+Facilement plus d’une heure/jour en usage perso sur mon tél.
 
   <article class="framalibre-notice">
     <div>
@@ -44,3 +44,24 @@ Quand je fais une pause, j'aime bien écouter un petit podcast avec :
       </div>
     </div>
   </article>
+
+# Ma sécurité numérique
+
+## Pour gérer mes mots de passe
+
+- un fichier pour mes mdp perso (une centaine…)
+- un fichier pour mes mdp pro (une cinquantaine)
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/KeepassXC.png">
+    </div>
+    <div>
+      <h2>KeepassXC</h2>
+      <p>KeePassXC est un fork communautaire de KeePassX. Ce logiciel dispose de fonctionnalités supplémentaires.</p>
+      <div>
+        <a href="https://framalibre.org/notices/keepassxc.html">Vers la notice Framalibre</a>
+        <a href="https://keepassxc.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
